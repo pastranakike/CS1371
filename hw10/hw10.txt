@@ -1,0 +1,4 @@
+Homework 10
+  - All the editable files are .m
+  - .p files are used as the solution functions
+  - This is a guide and it is not intended to be used against the Georgia Tech's Honor Code.
